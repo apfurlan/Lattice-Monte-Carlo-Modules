@@ -1,6 +1,7 @@
-#include "nearest_neighbors_bonds_class.hpp"
 #include <iostream>
 #include <iomanip>
+
+#include "nearest_neighbors_bonds_class.hpp"
 
 // void print_neighbors(const nearest_neighbor_bonds& lattice, int site) {
 //     const auto& nn = lattice.get_nn_list();

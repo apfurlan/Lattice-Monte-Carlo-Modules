@@ -15,9 +15,13 @@ class nearest_neighbors_bonds {
         std::vector<int> vertex1  ;
         std::vector<int> vertex2  ;
         std::vector<int> nn_bonds ;
+
+        void build()
+    
     private:
 
-
+        void build_triangular_lattice
+        
 
 };
 
